@@ -13,6 +13,6 @@ mvn clean test
 Navigate to the project folder and type:
 mvn clean spring-boot:run
 
-Thenk open your browser and navigate to: http://localhost:8080/greeting
+Then open your browser and navigate to: http://localhost:8080/greeting
 
 
