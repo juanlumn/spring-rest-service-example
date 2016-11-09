@@ -16,3 +16,6 @@ mvn clean spring-boot:run
 Then open your browser and navigate to: http://localhost:8080/greeting
 
 
+Note: This code is based on the guides placed at https://spring.io/guides
+
+
