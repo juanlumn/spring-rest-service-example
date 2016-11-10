@@ -11,10 +11,12 @@ mvn clean test
 
 # Run instructions
 Navigate to the project folder and type:
+
 mvn clean install
+
 mvn clean spring-boot:run
 
-http://localhost:8080/greeting displays a'Hello World' message
+http://localhost:8080/greeting displays a 'Hello World' message
 
 http://localhost:8080/greeting?name=param displays a 'Hello {param}' message
 
